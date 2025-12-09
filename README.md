@@ -3,7 +3,7 @@
 Management Information Systems student interested in technology and software. I enjoy building mobile and web projects..
 
 🌱 Currently focusing on Mobile Application Development and Web Technologies.
-📬 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/cemile-%C3%B6zcanl%C4%B1-053374391))
+📬 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemile-%C3%B6zcanl%C4%B1-053374391)
 
 ---
 
