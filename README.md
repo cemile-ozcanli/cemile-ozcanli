@@ -42,7 +42,6 @@ Management Information Systems student interested in technology and software. I 
 
 ## 📊 GitHub Stats
 
-![Cemile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemile-ozcanli&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cemile-ozcanli&layout=compact&theme=radical&hide_border=true)
 
 ---
