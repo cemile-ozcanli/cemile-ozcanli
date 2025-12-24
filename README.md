@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cemile ÖZCANLI!
 
-Management Information Systems student interested in technology and software. I enjoy building mobile and web projects..
+Management Information Systems student interested in technology and software. I enjoy building mobile and web projects.
 
 🌱 Currently focusing on Mobile Application Development and Web Technologies.
 📬 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemile-%C3%B6zcanl%C4%B1-053374391)
@@ -38,19 +38,17 @@ Management Information Systems student interested in technology and software. I 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reecepyuksel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Recep's GitHub stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reecepyuksel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cemile-ozcanli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Cemile's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cemile-ozcanli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reecepyuksel&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemile-ozcanli&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 ---
