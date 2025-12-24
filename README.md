@@ -42,10 +42,9 @@ Management Information Systems student interested in technology and software. I 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cemile-ozcanli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Cemile's GitHub stats" height="170" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cemile-ozcanli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
-
 
 ---
