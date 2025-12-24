@@ -47,8 +47,5 @@ Management Information Systems student interested in technology and software. I 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cemile-ozcanli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemile-ozcanli&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
